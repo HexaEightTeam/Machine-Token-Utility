@@ -13,6 +13,7 @@ The Releases contain the latest binaries that can be used to generate Login Toke
 
 
 HexaEight-Generate-Login-Tokens-For-Resources 1.0.0
+
 Copyright (C) 2024 HexaEight-Generate-Login-Tokens-For-Resources
 
   -n, --newtoken      Generates new Machine Token using a License Code
